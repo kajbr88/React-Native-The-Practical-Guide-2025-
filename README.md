@@ -7,7 +7,7 @@ This repository contains the code for a React Native application developed as pa
 This project demonstrates a comprehensive understanding of React Native development, covering core concepts and advanced techniques taught in the course. It showcases:
 
 * **Cross-Platform Development:** Building a single codebase that runs on both iOS and Android.
-* **React Native Fundamentals:** Understanding React, Javascript and Native components, state management, props, and lifecycle methods.
+* **React Native Fundamentals:** Understanding React, Javascript and Native components, state management, props etc.
 * **Modern React Native practices:** Using functional components and hooks.
 * **Navigation:** Implementing navigation using React Navigation.
 * **Data Fetching:** Integrating with APIs using `fetch` or `axios`.
