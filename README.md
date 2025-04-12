@@ -26,8 +26,8 @@ This project demonstrates a comprehensive understanding of React Native developm
 
 1.  **Clone the repository:**
     ```bash
-    `git clone https://github.com/kajbr88/React-Native-The-Practical-Guide-2025-.git`
-    e.g. Select app directory `cd 11-auth/10-storing-auth-tokens-on-the-device/`
+    "git clone https://github.com/kajbr88/React-Native-The-Practical-Guide-2025-.git"
+    e.g. Select app directory "cd 11-auth/10-storing-auth-tokens-on-the-device/"
     ```
 
 2.  **Install dependencies:**
