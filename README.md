@@ -7,45 +7,28 @@ This repository contains the code for a React Native application developed as pa
 This project demonstrates a comprehensive understanding of React Native development, covering core concepts and advanced techniques taught in the course. It showcases:
 
 * **Cross-Platform Development:** Building a single codebase that runs on both iOS and Android.
-* **React Native Fundamentals:** Understanding components, state management, props, and lifecycle methods.
+* **React Native Fundamentals:** Understanding React, Javascript and Native components, state management, props, and lifecycle methods.
+* **Modern React Native practices:** Using functional components and hooks.
 * **Navigation:** Implementing navigation using React Navigation.
 * **Data Fetching:** Integrating with APIs using `fetch` or `axios`.
-* **State Management:** Utilizing `useState`, `useReducer`, and potentially Context API or Redux/Zustand for complex state management.
+* **External Libraries Integration:** Instructions on how to use third-party libraries in your React Native app.
+* **State Management:** Utilizing `useState`, `useReducer`, Context API and Redux for complex state management.
+* **Backend Integration:** How to connect to a backend server from your app.
 * **UI Components:** Creating custom UI elements and leveraging React Native's built-in components.
 * **Animations:** Implementing animations using React Native's Animated API.
 * **Device Features:** Accessing device features like camera, geolocation, and storage.
-* **Testing:** Writing unit and integration tests (if applicable).
+* **Debugging:** Instructions on how to Debug.
 * **Deployment:** Preparing the application for deployment to app stores.
-* **Modern React Native practices:** Using functional components and hooks.
-
-## Key Features
-
-* [List key features of your application, e.g., User authentication, data visualization, real-time updates, etc.]
-* [Example: User authentication with Firebase]
-* [Example: Location based services using device geolocation]
-* [Example: Interactive map with MapView]
-* [Example: Offline data storage with AsyncStorage]
-
-## Technologies Used
-
-* **React Native:** The core framework for cross-platform development.
-* **React Navigation:** For navigation between screens.
-* **[List other libraries, e.g., Axios, Redux/Zustand, Firebase, etc.]**
-* **[Example: Axios for API requests.]**
-* **[Example: Redux Toolkit for state management.]**
-* **[Example: Firebase for authentication and database.]**
-* **[Example: React Native Maps for map integration.]**
-* **[Example: AsyncStorage for local storage.]**
-* **[Example: React Native Camera for camera integration.]**
-* **[Example: Jest and React Native Testing Library for testing.]**
+* **Push Notifications:** Understand and covering all topics related to Push Notifications in React Native.
+* **And so much more!**
 
 ## Installation
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
-    cd [project directory]
+    `git clone https://github.com/kajbr88/React-Native-The-Practical-Guide-2025-.git`
+    e.g. Select app directory `cd 11-auth/10-storing-auth-tokens-on-the-device/`
     ```
 
 2.  **Install dependencies:**
@@ -67,17 +50,11 @@ This project demonstrates a comprehensive understanding of React Native developm
     * **iOS:**
 
         ```bash
-        npx react-native run-ios
+       npm start / npx react-native run-ios
         ```
 
     * **Android:**
 
         ```bash
-        npx react-native run-android
+        npm start / npx react-native run-android
         ```
-
-## Screenshots
-
-[Include screenshots or GIFs of your application to showcase its UI and functionality. If applicable show screenshots for both ios and android]
-
-## Project Structure
