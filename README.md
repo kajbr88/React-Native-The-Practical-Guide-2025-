@@ -19,7 +19,7 @@ This project demonstrates a comprehensive understanding of React Native developm
 * **Device Features:** Accessing device features like camera, geolocation, and storage.
 * **Debugging:** Instructions on how to Debug.
 * **Deployment:** Preparing the application for deployment to app stores.
-* **Push Notifications:** Understand and covering all topics related to Push Notifications in React Native.
+* **Push Notifications:** Understand and covering all topics related to push notifications in React Native.
 * **And so much more!**
 
 ## Installation
